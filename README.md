@@ -30,9 +30,3 @@ La IA se plantea como apoyo para analizar fotografías de plantas, reconocer se�
 Las personas responsables del cuidado de plantas pueden tener dificultades para **interpretar señales visibles de deterioro y decidir qué hacer a tiempo**.
 
 Cambios como manchas, hojas amarillas, marchitamiento o crecimiento irregular pueden generar incertidumbre, especialmente cuando el usuario no cuenta con conocimientos especializados, acceso inmediato a un experto o información clara adaptada a su situación.
-
----
-
-### 💡 Reto inicial
-
-> **Comprender cómo ayudar a una persona responsable del cuidado de plantas a interpretar señales visibles de deterioro, decidir qué acción tomar y realizar seguimiento de su evolución.**
