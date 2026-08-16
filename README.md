@@ -1,4 +1,4 @@
-## 👥 Integrantes
+## Integrantes
 
 | Integrante                          |      Código |
 | ----------------------------------- | ----------: |
@@ -7,7 +7,7 @@
 
 ---
 
-## 📌 Tipo de proyecto
+## Tipo de proyecto
 
 **Aplicación móvil para el cuidado y seguimiento inteligente de plantas.**
 
@@ -15,7 +15,7 @@ AgroAyni busca explorar una solución adaptable a distintos perfiles, desde pers
 
 ---
 
-## 🤖 Modalidad de implementación
+## Modalidad de implementación
 
 **Con Inteligencia Artificial (IA).**
 
@@ -25,7 +25,7 @@ La IA se plantea como apoyo para analizar fotografías de plantas, reconocer se�
 
 ---
 
-## 🎯 Problema inicial
+## Problema inicial
 
 Las personas responsables del cuidado de plantas pueden tener dificultades para **interpretar señales visibles de deterioro y decidir qué hacer a tiempo**.
 
