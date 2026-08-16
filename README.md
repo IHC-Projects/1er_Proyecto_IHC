@@ -1,9 +1,3 @@
-# 🌱 AgroAyni
-
-### Brief v0.1 · Definición inicial del proyecto
-
----
-
 ## 👥 Integrantes
 
 | Integrante                          |      Código |
@@ -15,7 +9,7 @@
 
 ## 📌 Tipo de proyecto
 
-**Proyecto propio — Aplicación móvil para el cuidado y seguimiento inteligente de plantas.**
+**Aplicación móvil para el cuidado y seguimiento inteligente de plantas.**
 
 AgroAyni busca explorar una solución adaptable a distintos perfiles, desde personas con plantas en casa y aficionados a la jardinería hasta pequeños productores, floristas y viveros.
 
