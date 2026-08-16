@@ -32,9 +32,3 @@ La **FAO** señala que el acceso e inclusión digital siguen siendo desafíos pa
 
 **Fuente:**  
 [FAO — Digital Technologies in Agriculture and Rural Areas](https://openknowledge.fao.org/handle/20.500.14283/ca4887en)
-
----
-
-## Oportunidad para AgroAyni
-
-AgroAyni busca ayudar a identificar problemas en plantas y cultivos y brindar orientación de forma sencilla, considerando además un funcionamiento **offline-first** para zonas donde el Internet es limitado.
