@@ -1,4 +1,4 @@
-# 🌱 Evidencia de Investigación
+# Evidencia de Investigación
 
 ## Vecina de barrio con jardín
 
