@@ -1,4 +1,4 @@
-# 🌱 Brief v0.2.0 — AgroAyni
+# Brief v0.2.0 — AgroAyni
 
 ## Problema revisado
 
