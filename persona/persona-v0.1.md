@@ -1,5 +1,7 @@
 # Persona v0.1
 
+**Nombre:** Juana
+
 **Situación:**  
 Cuida plantas y flores en su casa. Cuando observa cambios en las hojas o en la tierra, intenta entender qué está ocurriendo y busca información para decidir cómo cuidarlas.
 
@@ -30,8 +32,7 @@ Recibir una orientación sencilla y clara que le ayude a decidir qué hacer desp
 - Modo sin conexión
 
 ### Nueva consulta
-- Tomar foto
-- Confirmar imagen
+- Tomar foto --> Confirmar imagen
 
 ### Resultado
 - Posible problema
